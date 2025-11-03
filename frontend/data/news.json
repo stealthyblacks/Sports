@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Manchester United Secures Winter Signing",
+    "summary": "Manchester United has completed the signing of their top winter transfer target after months of negotiations.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 24, 2025",
+    "content": "Full article about Manchester United's winter signing..."
+  },
+  {
+    "id": "2",
+    "title": "Liverpool Maintains Premier League Momentum",
+    "summary": "Liverpool extends their unbeaten streak with a crucial win against Everton in the Merseyside Derby.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 23, 2025",
+    "content": "Full article about Liverpool's match..."
+  },
+  {
+    "id": "3",
+    "title": "Arsenal Youth Academy Develops New Talent",
+    "summary": "Arsenal's youth academy continues to produce exceptional talent with several players breaking into first team.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 22, 2025",
+    "content": "Full article about Arsenal youth academy..."
+  },
+  {
+    "id": "4",
+    "title": "Injury Concerns for Manchester City",
+    "summary": "Manchester City faces injury setbacks with key players ruled out for upcoming matches.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 21, 2025",
+    "content": "Full article about Manchester City injuries..."
+  },
+  {
+    "id": "5",
+    "title": "Chelsea Appoints New Head Coach",
+    "summary": "Chelsea officially announces the appointment of their new head coach for the upcoming season.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 20, 2025",
+    "content": "Full article about Chelsea's new coach..."
+  },
+  {
+    "id": "6",
+    "title": "European Championship Qualification Drama",
+    "summary": "Exciting qualifying matches for the European Championship as teams fight for their spot.",
+    "thumbnail": "/placeholder.svg?height=300&width=400",
+    "date": "Dec 19, 2025",
+    "content": "Full article about championship qualifications..."
+  }
+]

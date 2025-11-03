@@ -1,0 +1,36 @@
+name: Deploy to Railway
+on:
+  push:
+    branches: [main]
+    paths: ['backend/**']
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+          
+      - name: Install dependencies
+        run: |
+          cd backend
+          pip install -r requirements.txt
+          
+      - name: Run basic checks
+        run: |
+          cd backend
+          python -c "import app.main; print('Import successful')"
+          
+      - name: Deploy to Railway
+        uses: railway-app/railway-deploy@v1
+        with:
+          token: ${{ secrets.RAILWAY_TOKEN }}
+          service: scoresure-backend
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}

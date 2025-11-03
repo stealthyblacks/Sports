@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85",
+    "date": "Dec 26, 2025",
+    "h2h": "Manchester United 1-1 Liverpool",
+    "pastMatches": [
+      { "date": "May 2024", "result": "1-1", "goals": "2" },
+      { "date": "Jan 2024", "result": "2-2", "goals": "4" },
+      { "date": "Aug 2023", "result": "0-2", "goals": "2" }
+    ]
+  },
+  {
+    "id": "2",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Chelsea",
+    "prediction": "Home Win",
+    "odds": "2.10",
+    "date": "Dec 27, 2025",
+    "h2h": "Arsenal 2-1 Chelsea",
+    "pastMatches": [
+      { "date": "Apr 2024", "result": "2-2", "goals": "4" },
+      { "date": "Dec 2023", "result": "1-0", "goals": "1" },
+      { "date": "Sep 2023", "result": "3-1", "goals": "4" }
+    ]
+  },
+  {
+    "id": "3",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Tottenham",
+    "prediction": "Away Team to Score",
+    "odds": "1.72",
+    "date": "Dec 26, 2025",
+    "h2h": "Manchester City 3-1 Tottenham",
+    "pastMatches": [
+      { "date": "Mar 2024", "result": "3-1", "goals": "4" },
+      { "date": "Nov 2023", "result": "2-1", "goals": "3" },
+      { "date": "Jun 2023", "result": "1-0", "goals": "1" }
+    ]
+  },
+  {
+    "id": "4",
+    "homeTeam": "Brighton",
+    "awayTeam": "Newcastle",
+    "prediction": "Under 2.5 Goals",
+    "odds": "1.95",
+    "date": "Dec 28, 2025",
+    "h2h": "Brighton 1-0 Newcastle",
+    "pastMatches": [
+      { "date": "Feb 2024", "result": "1-0", "goals": "1" },
+      { "date": "Oct 2023", "result": "1-1", "goals": "2" },
+      { "date": "Jul 2023", "result": "0-0", "goals": "0" }
+    ]
+  },
+  {
+    "id": "5",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Barcelona",
+    "prediction": "Home Win",
+    "odds": "1.95",
+    "date": "Dec 26, 2025",
+    "h2h": "Real Madrid 2-1 Barcelona",
+    "pastMatches": [
+      { "date": "May 2024", "result": "2-1", "goals": "3" },
+      { "date": "Jan 2024", "result": "1-2", "goals": "3" },
+      { "date": "Aug 2023", "result": "1-1", "goals": "2" }
+    ]
+  },
+  {
+    "id": "6",
+    "homeTeam": "Paris Saint-Germain",
+    "awayTeam": "Monaco",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88",
+    "date": "Dec 27, 2025",
+    "h2h": "PSG 3-1 Monaco",
+    "pastMatches": [
+      { "date": "Apr 2024", "result": "3-1", "goals": "4" },
+      { "date": "Dec 2023", "result": "2-0", "goals": "2" },
+      { "date": "Sep 2023", "result": "1-1", "goals": "2" }
+    ]
+  }
+]
